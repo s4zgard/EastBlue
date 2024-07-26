@@ -1,0 +1,10 @@
+{
+  "name": "EastBlue",
+  "version": "1.0.0",
+  "description": "Real Estate app developed with MERN stack",
+  "main": "index.js",
+  "repository": "https://github.com/s4zgard/EastBlue",
+  "author": "Sajjad Ahmed <s4zgard@gmail.com>",
+  "license": "MIT",
+  "private": false
+}
